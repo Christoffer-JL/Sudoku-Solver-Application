@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GUI"},{"p":"<Unnamed>","l":"helpClass"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"SudokuSolver"}];updateSearchResults();
